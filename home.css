@@ -1,0 +1,260 @@
+* {
+    margin: 0;
+    padding: 0;
+
+
+}
+
+.listitem ul {
+
+    margin: 40px 40px 40px 30px;
+}
+
+.listitem li {
+    display: inline;
+    display: inline;
+    text-decoration: none;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    padding: 15px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.imagelogo {
+    width: 90;
+    height: 90;
+    position: absolute;
+    top: 10px;
+    right: 650px;
+}
+
+.firstimage img {
+    width: 100%;
+    height: 550px;
+}
+
+.firstimage h1 {
+    position: absolute;
+    left: 100px;
+    top: 290;
+    font-family: 'Inter', sans-serif;
+    font-size: 65px;
+    font-weight: 400;
+}
+
+.firstimage input {
+    width: 110px;
+    height: 40;
+    border: none;
+    background-color: #212121;
+    color: #fff;
+    position: absolute;
+    left: 100px;
+    top: 470;
+}
+
+.sa {
+    width: 159px;
+    height: 120px;
+/*         border: 2px solid red; */
+    background-color: #E6E6E6;
+    position: absolute;
+    left: 5px;
+    top: 530px;
+}
+
+.second span {
+    /* margin-left:40% ; */
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.second {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.table2 {
+    border: 50px solid white;
+    text-align: center;
+    width: 100%;
+    height: 100%;
+}
+
+/* .button {
+    width: 100px;
+    height: 50;
+    border: 0;
+    background-color: #212121;
+    color: #fff;
+    position: absolute;
+    left: 100px;
+    top: 460;
+} */
+.button {
+    border: none;
+    color: #fff;
+    background-color: #212121;
+    text-decoration: none;
+    width: 130px;
+    height: 50px;
+    /* margin-left: 40px; */
+}
+
+.three{
+    position: relative;
+  }
+  .three img{
+    width: 100%;
+  }
+  .one{
+    font-family: 'Inter', sans-serif ;
+    font-size: 32px;
+    font-weight: 400;
+    text-align: center;
+    color:#fff;
+    position: absolute;
+    top: 170px; ;
+    left: 600px; ;
+  }
+  .two{
+    font-family:'Inter', sans-serif ;
+    font-size: 16px;
+    font-weight: 400;
+    color: #fff;
+    position: absolute;
+    top:230;
+     left: 300px;
+    
+  }
+  .th{
+    width: 200px;
+    height: 200px;
+    /* border: 2px solid red; */
+    background-color: #656869;
+    position: absolute;
+    top: 350px;
+  }
+  .three input{
+    width: 130px;
+    height: 50;
+    position: absolute;
+    top: 280;
+    left: 620;
+    border: none;
+    background-color: #fff;
+    
+    transition: 0.5s ease-in-out ;
+    /* color:white; */
+  
+  }
+   input:hover{
+    opacity: 0.5;
+    background-color: black;
+    color: #fff;
+   
+  }
+  
+
+.foure {
+    position: absolute;
+    top: 2250;
+    left: 20%;
+}
+
+.foure span {
+    /* margin-left:40% ; */
+    font-family: 'Inter', sans-serif;
+    font-size: 32px;
+    font-weight: 300;
+    text-align: center;
+}
+
+.foure {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    text-align: center;
+}
+
+.five table {
+    border: 140px solid white;
+    margin-top: 110px;
+    width: 100%;
+    padding-left: -10px;
+    /* left:100px ; */
+
+}
+
+.last {
+    border: 0;
+    width: 100%;
+    height: 59%;
+    /* border: 1px solid red; */
+    /* margin-top: -10px; */
+    background-color: #F5F5F5;
+    position: relative;
+   
+}
+
+.lastimage {
+    width: 90px;
+    height: 90px;
+    position: relative;
+    left: 110px;
+    top: 40px;
+}
+
+.lastpara {
+  margin: 49px 120px;
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+
+}
+
+.anch {
+
+    margin: 10px 100px;
+    padding-left: 30px;
+
+}
+
+.copy {
+    font-family: 'Inter', sans-serif;
+    font-size: medium;
+    font-weight: 300;
+    margin-top: -5px;
+    margin-left:-10px
+}
+.sp{
+  position: absolute;
+  top: 70px;
+  right: 209px;
+  font-family: 'Inter', sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 24px;
+
+}
+
+.quiklink {
+    font-family: 'Inter', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    position: absolute;
+    top: 75px;
+    right: 100px
+}
+.quiklink a{
+  text-decoration: none;
+  color: rgb(0, 0, 0);
+}
